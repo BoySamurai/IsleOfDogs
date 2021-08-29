@@ -184,7 +184,7 @@ Yes
 
 47
 00:25:17,140 --> 00:25:19,820
-Blood tests. Timings. Heartbeats.
+Blood tests, timings, heartbeats
 
 48
 00:25:20,770 --> 00:25:21,440
@@ -196,7 +196,7 @@ I think this has solved the problem or I don't understand what the real problem 
 
 50
 00:25:31,100 --> 00:25:32,660
-All dog stay on Trash Island
+All dogs stay on Trash Island
 
 51
 00:26:30,087 --> 00:26:31,146
@@ -272,7 +272,7 @@ Sit
 
 69
 00:36:02,030 --> 00:36:07,320
-Professor Watanabe, a candidate for the Science Party, has been arrested today. 
+Professor Watanabe, a candidate for the Science Party, has been arrested today
 
 70
 00:36:20,130 --> 00:36:21,760
@@ -500,7 +500,7 @@ Unfair to the dogs
 
 126
 01:27:18,600 --> 01:27:20,390
-Did no honor
+I did no honor
 
 127
 01:27:29,170 --> 01:27:30,800
@@ -516,7 +516,7 @@ Press that button now if you don't want to face a coup
 
 130
 01:29:58,270 --> 01:30:06,420
-The correction to the brain was a great success, but the kidney on the left side was damaged due to the burden of extraction.
+The correction to the brain was a great success, but the kidney on the left side was damaged due to the burden of extraction
 
 131
 01:30:10,250 --> 01:30:12,470
